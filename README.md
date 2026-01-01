@@ -4,7 +4,6 @@
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-![Redis](https://img.shields.io/badge/Redis-Caching_&_Lock-red)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 
 > A high-performance, transactional e-wallet backend system designed to demonstrate **Banking-level Data Integrity**, **Concurrency Handling**, and **Secure Payment Integration**.
